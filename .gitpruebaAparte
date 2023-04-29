@@ -1,3 +1,5 @@
-aasdas as das
-aasdasas
-dasdas
+hago funcion x
+
+f:: Int -> Int
+f 0 = 2
+f n = n
